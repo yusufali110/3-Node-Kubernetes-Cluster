@@ -1,0 +1,8 @@
+.vagrant/
+join-command.sh
+*.log
+.DS_Store
+Thumbs.db
+Vagrantfile.html
+project.txt
+/Vagrantfile VMware Conversion_files/
